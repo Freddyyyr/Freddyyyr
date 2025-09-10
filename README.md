@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Freddy
 
-🎓 Fresh graduate in Computer Science (EELU, 2025)  
+🎓 Fresh graduate in Computer Science (EELU, 2023)  
 📱 Currently learning **Flutter** for cross-platform mobile development    
 🚀 Passionate about building apps that make daily life easier  
 
