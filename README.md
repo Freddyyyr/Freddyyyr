@@ -14,9 +14,9 @@
 ---
 
 ### 📌 Projects
-- [To-Do App](https://github.com/Freddyyyr/to_do) – Simple Flutter app for daily task management  
-- (More coming soon!)
-- 
+- [To-Do App](https://github.com/Freddyyyr/to_do) – Simple app for daily task management  
+- [My News App](https://github.com/Freddyyyr/my-news) - Displays the latest articles using a public API with categorized news sections
+- (More Coming Soon!)
 ---
 
 ### 🌱 Learning
